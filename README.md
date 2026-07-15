@@ -1,2 +1,28 @@
-# 6c4be46d-esports-team-management-client
-Stop manually copying data between apps and rebuilding the same process every time. Start fully automated pipeline that runs while you sleep.  Connects to 400+ apps via n8n's built-in integrations — no custom code needed. Built for production: error handling, retry logic, and failure notifications included.  ## What's Included  - Esports Team Manag
+# Esports Team Management Client Onboarding Automation N8N Workflow
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/14AcN5fXx9MwaNOdI0cZM2g)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/14AcN5fXx9MwaNOdI0cZM2g)
+
